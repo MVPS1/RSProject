@@ -1,0 +1,19 @@
+1954168696
+Calling Number : #1401
+
+--------------------
+
+ID.	ORDER                    PRICE
+
+--------------------
+
+102.	1 Mandy Shiwaya          42.00
+102.	1 Mandy Shiwaya          42.00
+102.	1 Mandy Shiwaya          42.00
+102.	1 Mandy Shiwaya          42.00
+102.	1 Mandy Shiwaya          42.00
+
+
+AT : 2024-06-18
+
+TOTAL : 210.0 SAR
