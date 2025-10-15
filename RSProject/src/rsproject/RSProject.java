@@ -22,7 +22,7 @@ class MainMenu extends JFrame implements ActionListener{
     
     JButton reg;
     JButton log;
-    //2025
+    //2025.
     MainMenu()
     {
         super("Abo Essam Restaurant");
