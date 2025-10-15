@@ -1,14 +1,11 @@
 
 package rsproject;
 
-import java.awt.BorderLayout;
-import java.awt.Color;
+
 import java.awt.FlowLayout;
-import java.awt.Font;
-import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.ArrayList;
+
 import javax.swing.*;
 
 public class Login extends JFrame implements ActionListener{

@@ -6,18 +6,13 @@ import java.awt.FlowLayout;
 import java.awt.Font;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.nio.file.Path;
-import java.nio.file.Paths;
-import java.time.LocalDateTime;
-import java.util.ArrayList;
-import java.util.Scanner;
-import java.util.Set;
-import java.util.concurrent.TimeUnit;
+
+
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
-import javax.swing.JOptionPane;
 
+//2025. Updated
 class MainMenu extends JFrame implements ActionListener{
     
     JButton reg;
@@ -87,7 +82,7 @@ public class RSProject {
         
    
         myConnection con = new myConnection();
-        LocalDateTime now = LocalDateTime.now();
+        //LocalDateTime now = LocalDateTime.now();
         
         if(con.getConnectionState())
             new MainMenu();

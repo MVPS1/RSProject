@@ -1,0 +1,16 @@
+1626130368
+Calling Number : #5401
+
+--------------------
+
+ID.	ORDER                    PRICE
+
+--------------------
+
+103.	1 Bukhari Shiwaya        40.00
+203.	1/2 Bukhari Shiwaya      20.00
+
+
+AT : 2025-10-15
+
+TOTAL : 60.0 SAR

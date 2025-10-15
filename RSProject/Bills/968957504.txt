@@ -1,0 +1,17 @@
+968957504
+Calling Number : #5502
+
+--------------------
+
+ID.	ORDER                    PRICE
+
+--------------------
+
+213.	1/2 Bukhari Fahm         22.00
+213.	1/2 Bukhari Fahm         22.00
+201.	1/2 Kabsah Shiwaya       22.00
+
+
+AT : 2025-10-15
+
+TOTAL : 66.0 SAR
